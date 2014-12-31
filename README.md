@@ -4,7 +4,7 @@ AmbassdorTemplate
 HTML/CSS Template
 
 ## Demo
-http://friss.me/dev/ambassador-template
+http://friss.github.io/AmbassdorTemplate/
 
 ![Screen Shot](http://i.imgur.com/84OMriK.jpg)
 
